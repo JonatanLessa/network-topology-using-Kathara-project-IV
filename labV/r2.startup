@@ -1,0 +1,9 @@
+#configurações de IP
+ifconfig eth1 200.100.10.1/30
+ifconfig eth0 200.100.10.5/30
+
+#configurações de roteamento
+route add default gw 200.100.10.6
+route add default gw 200.100.10.2
+route add -net 192.168.20.0/24 gw 200.100.10.6
+route add -net 192.168.10.0/24 gw 200.100.10.2
