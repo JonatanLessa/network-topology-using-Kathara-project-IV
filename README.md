@@ -1,4 +1,4 @@
-# Network topology using Kathara - Project-IV and Project-V
+# Network topology using Kathara - Project-IV, Project-V and Project-VI
 A Implementation of a network topology using the Kathara tool for the Computer Networks Fundamentals course.
 
 1. Install Kathará.
