@@ -6,7 +6,7 @@
 
 A Implementation of a network topology using the Kathara tool for the Computer Networks Fundamentals course.
 
-1. Install Kathará.
+1. Install Kathara.
    - To install Kathara on Linux, follow the step by step guide, see the [Wiki](https://github.com/KatharaFramework/Kathara/wiki/Linux)
 
 2. Create a custom Kathara image or use the default image to create the lab.
