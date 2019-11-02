@@ -1,4 +1,9 @@
-# Network topology using Kathara - Project-IV, Project-V and Project-VI
+# Network topology using Kathara 
+- Project-IV: Implementing a two router topology  
+- Project-V: Implementing a three router topology
+- Project-VI: Implementing a VPN topology
+- Project-VII: Providing Internet connection through NAT
+
 A Implementation of a network topology using the Kathara tool for the Computer Networks Fundamentals course.
 
 1. Install Kathará.
